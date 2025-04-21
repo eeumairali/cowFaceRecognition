@@ -1,0 +1,3 @@
+source /home/environments_py/cow_recog/bin/activate # activate terminal
+\\wsl$\ # to get wsl 
+/mnt/c/Users/eeuma/Desktop/cow_facial_recognition_yolo_imagenet # path
